@@ -1,3 +1,12 @@
+## 요약 정리 누락 현황 ❌
+
+| Github ID | 주차 |
+| --- | --- |
+| JaeHyeonSim | - |
+| ddyearn | - |
+| Clover0817 | - |
+| Li5ht | - |
+
 ## **Rule**
 - 23/01/29 까지 Spring, React 강의 듣고 내용 정리(notion)
 - 본격적인 구현은 설계가 끝난 뒤 2월부터 진행
